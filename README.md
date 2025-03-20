@@ -35,7 +35,7 @@ STEP-5: Display the obtained cipher text.
 
 
 
-Program:
+# Program:
 
 ```
 import re
@@ -114,10 +114,10 @@ if __name__ == "__main__":
 ```
 
 
-Output:
+# Output:
 
 ![Screenshot 2025-03-20 041108](https://github.com/user-attachments/assets/b012a0b2-4343-4e46-8c84-d8acc9af02d1)
 
-Result:
+# Result:
 
 Thus the implemetation of Playfair cyfer has been executed successfully..
