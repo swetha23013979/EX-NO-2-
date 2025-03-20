@@ -1,11 +1,12 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
+# Reg no : 212223040222
+
+
+# Name : Swetha D
  
 
 ## AIM:
- 
-
- 
 
 To write a C program to implement the Playfair Substitution technique.
 
